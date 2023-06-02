@@ -28,13 +28,13 @@ Keywords: Sentiment analysis, Transformers, Fine-tuning, HuggingFace
 
 This project involves using NLP techniques to generate a cover letter tailored to a specific job vacancy. The project utilizes PDF and website data loaders to extract relevant information about the job applicant from their CV and the job vacancy details. A large language model (OpenAI Davinci) is then used to generate a cover letter by combining the extracted information in one prompt.
 
-Keywords: Text generation, LLM, OpenAi, LangChain, Prompt enginnering
+Keywords: Text generation, LLM, OpenAI, LangChain, Prompt enginnering
 
 ## 6. Propensity for Obesity detection _using OpenAI Davinci LLM + Random Forest Classification_
 
 This project showcases the integration of LLM for information extraction and prediction. The project goes beyond traditional analysis to extract meaningful insights and generate summaries using OpenAI Davinci LLM based on provided information. This demonstrates the application of natural language processing techniques in the data science pipeline, enhancing the project's complexity and real-world relevance.
 
-Keywords: Classification, Summary Generation, LLM, OpenAi, LangChain, Prompt enginnering, , Pipelines.  
+Keywords: Classification, Summary Generation, LLM, OpenAI, LangChain, Prompt enginnering, Pipelines.  
 
 
 

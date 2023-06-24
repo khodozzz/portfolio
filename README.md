@@ -18,17 +18,17 @@ In this project, a fake news classification model is built using a dataset of ne
 
 Keywords: Classification, Tokenization, Stopwords removal, Word2Vec, LSTM, Neural Network, TensorFlow, NLTK< Gensim, Data visualizatiob
 
-## 4. Twitter Sentiment Analysis _using RoBERTa Fine-tuning_ 
-
-This project focuses on sentiment analysis of Twitter data using a pre-trained language model. The dataset is loaded, preprocessed, and split into training, validation, and testing sets. A sentiment classification model is trained using the Twitter-RoBERTa base model and evaluated using accuracy metrics. The trained model is then used to predict the sentiment of new Twitter data.
-
-Keywords: Sentiment analysis, Transformers, Fine-tuning, HuggingFace
-
-## 5. Cover Letter Generator _using OpenAI Davinci LLM_
+## 4. Cover Letter Generator _using OpenAI Davinci LLM_
 
 This project involves using NLP techniques to generate a cover letter tailored to a specific job vacancy. The project utilizes PDF and website data loaders to extract relevant information about the job applicant from their CV and the job vacancy details. A large language model (OpenAI Davinci) is then used to generate a cover letter by combining the extracted information in one prompt.
 
 Keywords: Text generation, LLM, OpenAI, LangChain, Prompt enginnering
+
+## 5. Twitter Sentiment Analysis _using RoBERTa Fine-tuning_ 
+
+This project focuses on sentiment analysis of Twitter data using a pre-trained language model. The dataset is loaded, preprocessed, and split into training, validation, and testing sets. A sentiment classification model is trained using the Twitter-RoBERTa base model and evaluated using accuracy metrics. The trained model is then used to predict the sentiment of new Twitter data.
+
+Keywords: Sentiment analysis, Transformers, Fine-tuning, HuggingFace
 
 ## 6. Propensity for Obesity Detection _using OpenAI Davinci LLM + Random Forest Classification_
 
@@ -36,8 +36,8 @@ This project showcases the integration of LLM for information extraction and pre
 
 Keywords: Classification, Summary Generation, LLM, OpenAI, LangChain, Prompt enginnering, Pipelines.  
 
+## 7. Movie Reccomendation System _using K-Nearest Neighbors Collaborative Filtering_
 
+This project demonstrates the implementation of a movie recommendation system. The dataset used includes information on movies and user ratings. The project involves data wrangling, creating a user-item matrix, and applying the KNN algorithm to find similar movies and make personalized recommendations for users. The code is written in Python, where recommendation system was implemented as a class to efficiently organize and encapsulate the code for the problem. By encapsulating the functionality within a class, the code becomes modular and reusable, making it easier to maintain and extend in the future. The project showcases the ability to analyze and process large datasets, apply collaborative filtering techniques, and provide relevant recommendations based on user preferences.
 
-
-
-
+Keywords: Recommendation System, Collaborative Filtering, Item Similarities, KNN (K-Nearest Neighbors), Personalized Recommendations, Modularity.
